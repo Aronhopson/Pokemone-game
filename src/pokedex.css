@@ -1,0 +1,12 @@
+.p-c{
+    display: flex; 
+    justify-content: space-evenly;
+    flex-wrap: wrap
+}
+.Pokedex-Winner{
+    color: green;
+
+}
+.Pokedex-Loser{
+    color: red;  
+}
